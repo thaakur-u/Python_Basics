@@ -1,7 +1,7 @@
 import os
 
 # Specify the directory path
-directory_path = "/users"  # Replace with your desired path
+directory_path = "/users" 
 
 # Get the list of files and directories
 contents = os.listdir(directory_path)
